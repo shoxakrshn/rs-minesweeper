@@ -1,0 +1,10 @@
+.info {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  column-gap: 3rem;
+}
+
+.info__new-game {
+  cursor: pointer;
+}

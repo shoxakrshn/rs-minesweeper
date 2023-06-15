@@ -1,0 +1,7 @@
+@mixin media-medium {
+  @media (max-width: 960px) { @content; }
+}
+
+@mixin media-hard {
+  @media (max-width: 665px) { @content; }
+}
